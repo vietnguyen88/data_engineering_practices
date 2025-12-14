@@ -212,3 +212,9 @@ __marimo__/
 
 # backup files
 **.bk
+
+# Ignore all files ending with .zip
+*.zip
+
+# Ignore all files ending with .txt
+*.txt
