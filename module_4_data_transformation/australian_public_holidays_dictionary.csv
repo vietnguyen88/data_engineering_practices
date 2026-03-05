@@ -1,0 +1,7 @@
+Column Name,Data Type,Example,Description
+ID,Integer,"1, 2, 3",A unique numerical identifier assigned to each record in the dataset.
+Date,Integer,"YYYYMMDD (e.g., 20210101)","The specific date on which the holiday occurs. Currently stored as an 8-digit integer/string without separators."
+Holiday Name,String,New Year's Day,The official name of the public holiday or observance.
+Information,String,Text description,"A brief description explaining the origin, meaning, or significance of the holiday."
+More Information,String,https://www...,A web link pointing to an official government or informational page for further details about the holiday.
+Jurisdiction,String,"act, nsw, vic","The specific state, territory, or region where the holiday is legally recognized (e.g., Australian Capital Territory)."
